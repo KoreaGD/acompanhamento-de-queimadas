@@ -1,7 +1,30 @@
 /* STYLE */ 
 
-/* HEADER */ 
+/* BODY STYLE */ 
 
-.selector-for-some-widget {
-    box-sizing: content-box;
+/* HEADER STYLE */ 
+
+.change-fonts{
+    font-size: 12px;
+    font-family: Arial;
+}
+
+h1.display-3{
+    font-size: 300px;
+    font-family: Arial;
+}
+
+header.container{
+    height: 100px;
+}
+p.subtitle-1{
+    font-size: 14;
+    font-family: Arial;
+}
+
+
+/* SECTION STYLE */
+
+col-md-4 h2 {
+    font-size: 20px !important;
   }
