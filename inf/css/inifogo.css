@@ -65,6 +65,11 @@ nav#menu a{
 
 nav#menu a:hover{
     text-decoration:underline;
+    background-color:rgb(242,234,13 .1);
+    text-decoration:none;
+    border-radius: 4px;
+    color:#F2EA0D;
+    transition: 1.5s;
 }
 
 section#banner img{
@@ -129,8 +134,11 @@ footer#rodape{
         line-height:14px;
     }
     nav#menu a:hover{
-        background-color:#A38068;
-        text-decoration:none;
+    background-color:rgb(242,234,13 .1);
+    text-decoration:none;
+    border-radius: 4px;
+    color:#F2EA0D;
+    transition: 1.5s;
     }
     h2,h3{
         font-size:22px;
