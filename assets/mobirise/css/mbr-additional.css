@@ -1117,7 +1117,7 @@ section.lazy-placeholder:after {
 .cid-s1Od37CnN9 {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1Od37CnN9 .mbr-section-subtitle {
   color: #767676;
@@ -1137,17 +1137,17 @@ section.lazy-placeholder:after {
   width: 44px;
   height: 44px;
   font-size: 22px;
-  border: 2px solid #efefef;
+  border: 2px solid #cccccc;
   border-radius: 50%;
   color: #232323;
 }
 @media (min-width: 992px) {
   .cid-s1Od37CnN9 .cards-block {
-    border-top: 2px solid #efefef;
+    border-top: 2px solid #cccccc;
   }
 }
 .cid-s1Od37CnN9 .cards-block .card {
-  border-bottom: 2px solid #efefef;
+  border-bottom: 2px solid #cccccc;
   border-radius: 0;
 }
 .cid-s1Od37CnN9 .cards-container {
@@ -1188,7 +1188,7 @@ section.lazy-placeholder:after {
 .cid-s1NN50ho70 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1NN50ho70 h2 {
   text-align: left;
@@ -1247,31 +1247,30 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-s1Od3MbAqA {
-  background: #efefef;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #cccccc, #efefef);
-}
-.cid-s1Od3MbAqA .image-block {
-  margin: auto;
-}
-.cid-s1Od3MbAqA figcaption {
-  position: relative;
-}
-.cid-s1Od3MbAqA figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s1Od3MbAqA .image-block {
-    width: 100% !important;
-  }
-}
-.cid-s1EQOQmwV8 {
+.cid-s1PNIr70fC {
   padding-top: 90px;
   padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s1PNIr70fC .title {
+  margin-bottom: 2rem;
+}
+.cid-s1PNIr70fC .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1PNIr70fC a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s1PNIr70fC a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s1PNIr70fC textarea.form-control {
+  min-height: 188px;
+}
+.cid-s1EQOQmwV8 {
+  padding-top: 75px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-s1EQOQmwV8 .mbr-section-subtitle {
