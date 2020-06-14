@@ -3,6 +3,7 @@
 - Grupo x
 
 ## Desafio 4
+- Como acompanhar as queimadas no Brasil?
 
 
 ## Telas
@@ -17,7 +18,7 @@ Terceira tela: Entenda do Assunto
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/pc/fiqPordentro.png
 </p>
   
-Quarta tela: FeedBack 
+Quarta tela: Respansive-FeedBack
 <p align="center">
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/resp/i3.png
  </p>
@@ -27,7 +28,7 @@ Quinta tela: Fundadores
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/pc/Fundadoressubi.png
 </p>
 
-Sexta tela: Respansive:
+Sexta tela: Respansive-Menu
 <p align="center">
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/resp/i4.png>
 </p>
