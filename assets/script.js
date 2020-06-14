@@ -6,7 +6,7 @@ const formSubm = document.querySelector('#formSubm');
 const socket = io('localhost:3000');
 let user;
 
-function getData(){
+function getData() {
     user = {
         nome: formName.value,
         email: formEmail.value,
@@ -15,12 +15,10 @@ function getData(){
     };
 }
 
-formSubm.addEventListener('click', e=> {
+formSubm.addEventListener('click', e => {
     e.preventDefault();
-    socket.once('connect', function(){
-    socket.on('connect', function(){
-        getData();
-        socket.emit('sendForm', user)
-    })
-
-}}, false);
+    socket.once('connect', function () {
+        socket.on('connect', function () {
+            getData();
+            socket.emit('sendForm', user)
+        })})})
