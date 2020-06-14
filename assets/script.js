@@ -38,7 +38,7 @@ formSubm.addEventListener('click', e => {
 });
 
 function writeUseData(nome, email, telefone, message){
-    firebase.database().ref('Users/').set({
+    firebase.database().ref('Users/' + nome).set({
         nome: nome,
         email: email,
         telefone: telefone,
