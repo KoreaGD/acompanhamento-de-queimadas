@@ -38,12 +38,12 @@ formSubm.addEventListener('click', e => {
 });
 
 function writeUseData(nome, email, telefone, message){
-    firebase.database().ref('Users/').set({
+    firebase.database().ref('Users/').set({{
         nome: nome,
         email: email,
         telefone: telefone,
         mensagem: message
-    })
+    }})
 }
 
 
