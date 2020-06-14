@@ -18,7 +18,7 @@ Terceira tela: Entenda do Assunto
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/pc/fiqPordentro.png
 </p>
   
-Quarta tela: Respansive-FeedBack
+Quarta tela: Responsive-FeedBack
 <p align="center">
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/resp/i3.png
  </p>
@@ -28,7 +28,7 @@ Quinta tela: Fundadores
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/pc/Fundadoressubi.png
 </p>
 
-Sexta tela: Respansive-Menu
+Sexta tela: Responsive-Menu
 <p align="center">
 <img src=https://github.com/KoreaGD/acompanhamento-de-queimadas/blob/master/assets/images/imgR/resp/i4.png>
 </p>
