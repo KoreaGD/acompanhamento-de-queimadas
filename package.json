@@ -19,7 +19,8 @@
   "homepage": "https://github.com/KoreaGD/acompanhamento-de-queimadas#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
