@@ -18,8 +18,9 @@ function getData(){
 formSubm.addEventListener('click', e=> {
     e.preventDefault();
     socket.once('connect', function(){
+    socket.on('connect', function(){
         getData();
         socket.emit('sendForm', user)
     })
 
-}, false);
+}}, false);
