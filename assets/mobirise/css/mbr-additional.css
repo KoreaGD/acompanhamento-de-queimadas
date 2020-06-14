@@ -1120,7 +1120,11 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-s1Od37CnN9 .mbr-section-subtitle {
+<<<<<<< HEAD
   color: #465052;
+=======
+  color: #767676;
+>>>>>>> 1a09b839312564ddfce38ad4102c4e595074e18c
   font-weight: 300;
 }
 .cid-s1Od37CnN9 .mbr-content-text {
@@ -1327,9 +1331,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s1EE78vk2G {
+<<<<<<< HEAD
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #333333;
+=======
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+>>>>>>> 1a09b839312564ddfce38ad4102c4e595074e18c
 }
 @media (max-width: 767px) {
   .cid-s1EE78vk2G .content {
