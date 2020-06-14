@@ -32,4 +32,4 @@ app.get('/table', (req, res) => res.sendFile(__dirname + '/table.html'));
     // })
 // })
 
-http.listen(port, () => console.log("Site funcionando em: http://localhost:3000"));
+http.listen(process.env.PORT || 5000, () => console.log("Site funcionando em: http://localhost:3000"));
