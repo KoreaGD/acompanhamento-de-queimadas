@@ -11,6 +11,7 @@
 - Js
 - jQuery
 - Bootstrap
+- Mobirise
 
 ## Ferramentas Back-end
 - Node.js
