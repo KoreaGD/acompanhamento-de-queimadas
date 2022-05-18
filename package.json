@@ -4,7 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1",
+    "firebase": "^7.15.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
